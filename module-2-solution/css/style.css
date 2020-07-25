@@ -40,6 +40,11 @@ section {
 	overflow: auto;
 }
 
+#box{
+	border-color: #000000
+	background-color:#8c8c8c;
+}
+
 #chicken {
 	border: 1px solid black;
 	text-align: center;
